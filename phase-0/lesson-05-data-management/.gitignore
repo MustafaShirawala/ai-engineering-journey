@@ -1,0 +1,10 @@
+*.bin
+*.safetensors
+*.pt
+*.onnx
+data/*.parquet
+data/*.csv
+models/
+.venv/
+__pycache__/
+imdb_train.*

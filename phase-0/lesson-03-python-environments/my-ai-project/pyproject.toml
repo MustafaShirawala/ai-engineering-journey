@@ -1,0 +1,9 @@
+#it is my first ptoject that i will build in the aiengineeringfromscratch.com course
+[project]
+name = "my-ai-project-1"
+version = "0.1.0"
+requires-python = ">=3.11"
+dependencies = [
+    "torch",
+    "anthropic",
+]
