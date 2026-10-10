@@ -18,3 +18,4 @@ models/
 
 # Secrets
 .env
+*.log
